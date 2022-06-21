@@ -6,7 +6,7 @@ cryptography==2.7
 idna==2.8
 joblib==0.13.2
 mimesis==3.3.0
-numpy==1.17.1
+numpy==1.22.0
 pandas==0.25.1
 psycopg2==2.7.7
 psycopg2-binary==2.8.3
