@@ -4,7 +4,7 @@ cffi==1.12.3
 chardet==3.0.4
 cryptography==2.7
 idna==2.8
-joblib==0.13.2
+joblib==1.2.0
 mimesis==3.3.0
 numpy==1.17.1
 pandas==0.25.1
